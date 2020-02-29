@@ -21,5 +21,5 @@ wget https://raw.githubusercontent.com/Athlon1600/vnstat-php/master/vnstat.php -
 
 ### Demo
 
-![](https://cdn.proxynova.com/github/vnstat.png);
+![](https://cdn.proxynova.com/github/vnstat.png)
 
