@@ -3,11 +3,10 @@
 Super simple dashboard page for vnstat using PHP. 
 Useful in keeping track of bandwidth use for applications like **php-proxy**.
 
-
 ### Installation
 
 ```shell
-sudo apt-get -y vnstat
+sudo apt-get -y install vnstat
 ```
 
 vnstat
