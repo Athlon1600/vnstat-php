@@ -20,7 +20,9 @@ Access it at:
 http://your_server:60222/
 ```
 
-## Preview
+## Demo
+
+http://us1.proxynova.net:60222/
 
 ![](https://cdn.proxynova.com/github/vnstat.png)
 
