@@ -22,7 +22,7 @@ http://your_server:60222/
 
 ## Demo
 
-http://us1.proxynova.net:60222/
+http://proxynova.com:60222/
 
 ![](https://cdn.proxynova.com/github/vnstat.png)
 
